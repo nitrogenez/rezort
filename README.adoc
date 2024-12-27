@@ -1,0 +1,8 @@
+rezort - A Revolt API wrapper
+=============================
+:Author: Andrij Glyko
+:Email: <nitrogenez.dev@tuta.io>
+:Date: 2024-12-27
+:Revision: 0.1.0
+
+Rezort is an API wrapper for Revolt written in Zig.
